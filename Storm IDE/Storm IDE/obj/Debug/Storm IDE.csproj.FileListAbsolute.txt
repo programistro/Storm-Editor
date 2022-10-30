@@ -1,0 +1,14 @@
+E:\Проекты\C#\Storm IDE\Storm IDE\bin\Debug\AutocompleteMenu.dll
+E:\Проекты\C#\Storm IDE\Storm IDE\bin\Debug\FastColoredTextBox.dll
+E:\Проекты\C#\Storm IDE\Storm IDE\bin\Debug\FastColoredTextBox.xml
+E:\Проекты\C#\Storm IDE\Storm IDE\obj\Debug\Storm IDE.csproj.AssemblyReference.cache
+E:\Проекты\C#\Storm IDE\Storm IDE\obj\Debug\Storm_IDE.Form1.resources
+E:\Проекты\C#\Storm IDE\Storm IDE\obj\Debug\Storm_IDE.Properties.Resources.resources
+E:\Проекты\C#\Storm IDE\Storm IDE\obj\Debug\Storm IDE.csproj.GenerateResource.cache
+E:\Проекты\C#\Storm IDE\Storm IDE\obj\Debug\Storm IDE.csproj.CoreCompileInputs.cache
+E:\Проекты\C#\Storm IDE\Storm IDE\obj\Debug\Storm IDE.csproj.CopyComplete
+E:\Проекты\C#\Storm IDE\Storm IDE\bin\Debug\Storm Editor.exe.config
+E:\Проекты\C#\Storm IDE\Storm IDE\bin\Debug\Storm Editor.exe
+E:\Проекты\C#\Storm IDE\Storm IDE\bin\Debug\Storm Editor.pdb
+E:\Проекты\C#\Storm IDE\Storm IDE\obj\Debug\Storm Editor.exe
+E:\Проекты\C#\Storm IDE\Storm IDE\obj\Debug\Storm Editor.pdb
